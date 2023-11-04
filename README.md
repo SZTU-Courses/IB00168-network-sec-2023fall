@@ -13,3 +13,6 @@
 
 - 实验五提交地址：https://send2me.cn/xn8qqLch/TsuB40WbEckPHA
 - 实验五提交时间：1104 9:00 PM
+
+- 实验六提交地址：https://send2me.cn/pG7ENRoY/S-iTl3anUDdN_A
+- 实验六提交时间：1110 9:00 PM
