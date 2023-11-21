@@ -19,3 +19,8 @@
 
 - 实验七提交地址：https://send2me.cn/XLmF3TWP/SFWcwfDici44EQ
 - 实验七提交时间：1118 9:00 PM
+
+
+- 安全实验八
+- 截止时间：2023-11-25 21:36
+- 提交地址：https://send2me.cn/VndXw3K8/TO-F2EwzT94wKA
